@@ -35,9 +35,9 @@
 #define AP_SSID   "my-wifi"
 #define AP_PASSWD "12345678"
 
-#define AP_IP   "192.168.1.123"
+#define AP_IP   "192.168.188.1"
 #define AP_MASK "255.255.255.0"
-#define AP_GW   "192.168.1.1"
+#define AP_GW   "192.168.188.1"
 
 // udp broadcast
 #define UDP_BROADCAST_PORT 6666
