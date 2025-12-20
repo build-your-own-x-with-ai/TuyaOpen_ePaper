@@ -28,8 +28,8 @@
 #include "DEV_Config.h"
 
 // HTTP Configuration
-#define IMAGE_URL_HOST      "74.82.197.217"           // 修改为你的图片服务器地址
-#define IMAGE_URL_PATH      "/image.bin"            // 修改为你的图片路径
+#define IMAGE_URL_HOST      "120.79.89.230"           // 修改为你的图片服务器地址
+#define IMAGE_URL_PATH      "/caddy-uploads/image.bin"            // 修改为你的图片路径
 #define HTTP_REQUEST_TIMEOUT 10000                  // 10 seconds
 
 // WiFi Configuration
